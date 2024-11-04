@@ -1,0 +1,20 @@
+C:\Users\joaov\OneDrive\Estudos\Teste de Código\Programas .net\Conversor Monetário\Conversor Monetário\Conversor Monetário\bin\Debug\net8.0-windows\Conversor Monetário.exe
+C:\Users\joaov\OneDrive\Estudos\Teste de Código\Programas .net\Conversor Monetário\Conversor Monetário\Conversor Monetário\bin\Debug\net8.0-windows\Conversor Monetário.deps.json
+C:\Users\joaov\OneDrive\Estudos\Teste de Código\Programas .net\Conversor Monetário\Conversor Monetário\Conversor Monetário\bin\Debug\net8.0-windows\Conversor Monetário.runtimeconfig.json
+C:\Users\joaov\OneDrive\Estudos\Teste de Código\Programas .net\Conversor Monetário\Conversor Monetário\Conversor Monetário\bin\Debug\net8.0-windows\Conversor Monetário.dll
+C:\Users\joaov\OneDrive\Estudos\Teste de Código\Programas .net\Conversor Monetário\Conversor Monetário\Conversor Monetário\bin\Debug\net8.0-windows\Conversor Monetário.pdb
+C:\Users\joaov\OneDrive\Estudos\Teste de Código\Programas .net\Conversor Monetário\Conversor Monetário\Conversor Monetário\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\joaov\OneDrive\Estudos\Teste de Código\Programas .net\Conversor Monetário\Conversor Monetário\Conversor Monetário\obj\Debug\net8.0-windows\Conversor Monetário.csproj.AssemblyReference.cache
+C:\Users\joaov\OneDrive\Estudos\Teste de Código\Programas .net\Conversor Monetário\Conversor Monetário\Conversor Monetário\obj\Debug\net8.0-windows\Conversor_Monetário.ConversorMonetario.resources
+C:\Users\joaov\OneDrive\Estudos\Teste de Código\Programas .net\Conversor Monetário\Conversor Monetário\Conversor Monetário\obj\Debug\net8.0-windows\Conversor_Monetário.Properties.Resources.resources
+C:\Users\joaov\OneDrive\Estudos\Teste de Código\Programas .net\Conversor Monetário\Conversor Monetário\Conversor Monetário\obj\Debug\net8.0-windows\Conversor Monetário.csproj.GenerateResource.cache
+C:\Users\joaov\OneDrive\Estudos\Teste de Código\Programas .net\Conversor Monetário\Conversor Monetário\Conversor Monetário\obj\Debug\net8.0-windows\Conversor Monetário.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\OneDrive\Estudos\Teste de Código\Programas .net\Conversor Monetário\Conversor Monetário\Conversor Monetário\obj\Debug\net8.0-windows\Conversor Monetário.AssemblyInfoInputs.cache
+C:\Users\joaov\OneDrive\Estudos\Teste de Código\Programas .net\Conversor Monetário\Conversor Monetário\Conversor Monetário\obj\Debug\net8.0-windows\Conversor Monetário.AssemblyInfo.cs
+C:\Users\joaov\OneDrive\Estudos\Teste de Código\Programas .net\Conversor Monetário\Conversor Monetário\Conversor Monetário\obj\Debug\net8.0-windows\Conversor Monetário.csproj.CoreCompileInputs.cache
+C:\Users\joaov\OneDrive\Estudos\Teste de Código\Programas .net\Conversor Monetário\Conversor Monetário\Conversor Monetário\obj\Debug\net8.0-windows\Converso.0E747AAE.Up2Date
+C:\Users\joaov\OneDrive\Estudos\Teste de Código\Programas .net\Conversor Monetário\Conversor Monetário\Conversor Monetário\obj\Debug\net8.0-windows\Conversor Monetário.dll
+C:\Users\joaov\OneDrive\Estudos\Teste de Código\Programas .net\Conversor Monetário\Conversor Monetário\Conversor Monetário\obj\Debug\net8.0-windows\refint\Conversor Monetário.dll
+C:\Users\joaov\OneDrive\Estudos\Teste de Código\Programas .net\Conversor Monetário\Conversor Monetário\Conversor Monetário\obj\Debug\net8.0-windows\Conversor Monetário.pdb
+C:\Users\joaov\OneDrive\Estudos\Teste de Código\Programas .net\Conversor Monetário\Conversor Monetário\Conversor Monetário\obj\Debug\net8.0-windows\Conversor Monetário.genruntimeconfig.cache
+C:\Users\joaov\OneDrive\Estudos\Teste de Código\Programas .net\Conversor Monetário\Conversor Monetário\Conversor Monetário\obj\Debug\net8.0-windows\ref\Conversor Monetário.dll

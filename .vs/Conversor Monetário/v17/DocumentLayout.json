@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joaov\\OneDrive\\Estudos\\Teste de C\u00F3digo\\Programas .net\\Conversor Monet\u00E1rio\\Conversor Monet\u00E1rio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B95E2F-99A8-43C7-B5D4-3253CDFC7CF5}|Conversor Monet\u00E1rio\\Conversor Monet\u00E1rio.csproj|c:\\users\\joaov\\onedrive\\estudos\\teste de c\u00F3digo\\programas .net\\conversor monet\u00E1rio\\conversor monet\u00E1rio\\conversor monet\u00E1rio\\conversormonetario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1B95E2F-99A8-43C7-B5D4-3253CDFC7CF5}|Conversor Monet\u00E1rio\\Conversor Monet\u00E1rio.csproj|solutionrelative:conversor monet\u00E1rio\\conversormonetario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B95E2F-99A8-43C7-B5D4-3253CDFC7CF5}|Conversor Monet\u00E1rio\\Conversor Monet\u00E1rio.csproj|c:\\users\\joaov\\onedrive\\estudos\\teste de c\u00F3digo\\programas .net\\conversor monet\u00E1rio\\conversor monet\u00E1rio\\conversor monet\u00E1rio\\conversormonetario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B95E2F-99A8-43C7-B5D4-3253CDFC7CF5}|Conversor Monet\u00E1rio\\Conversor Monet\u00E1rio.csproj|solutionrelative:conversor monet\u00E1rio\\conversormonetario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B95E2F-99A8-43C7-B5D4-3253CDFC7CF5}|Conversor Monet\u00E1rio\\Conversor Monet\u00E1rio.csproj|c:\\users\\joaov\\onedrive\\estudos\\teste de c\u00F3digo\\programas .net\\conversor monet\u00E1rio\\conversor monet\u00E1rio\\conversor monet\u00E1rio\\conversormonetario.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B95E2F-99A8-43C7-B5D4-3253CDFC7CF5}|Conversor Monet\u00E1rio\\Conversor Monet\u00E1rio.csproj|solutionrelative:conversor monet\u00E1rio\\conversormonetario.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConversorMonetario.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\joaov\\OneDrive\\Estudos\\Teste de C\u00F3digo\\Programas .net\\Conversor Monet\u00E1rio\\Conversor Monet\u00E1rio\\Conversor Monet\u00E1rio\\ConversorMonetario.Designer.cs",
+              "RelativeDocumentMoniker": "Conversor Monet\u00E1rio\\ConversorMonetario.Designer.cs",
+              "ToolTip": "C:\\Users\\joaov\\OneDrive\\Estudos\\Teste de C\u00F3digo\\Programas .net\\Conversor Monet\u00E1rio\\Conversor Monet\u00E1rio\\Conversor Monet\u00E1rio\\ConversorMonetario.Designer.cs",
+              "RelativeToolTip": "Conversor Monet\u00E1rio\\ConversorMonetario.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T12:23:28.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConversorMonetario.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\joaov\\OneDrive\\Estudos\\Teste de C\u00F3digo\\Programas .net\\Conversor Monet\u00E1rio\\Conversor Monet\u00E1rio\\Conversor Monet\u00E1rio\\ConversorMonetario.cs",
+              "RelativeDocumentMoniker": "Conversor Monet\u00E1rio\\ConversorMonetario.cs",
+              "ToolTip": "C:\\Users\\joaov\\OneDrive\\Estudos\\Teste de C\u00F3digo\\Programas .net\\Conversor Monet\u00E1rio\\Conversor Monet\u00E1rio\\Conversor Monet\u00E1rio\\ConversorMonetario.cs [Projeto]",
+              "RelativeToolTip": "Conversor Monet\u00E1rio\\ConversorMonetario.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T12:11:36.796Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConversorMonetario.cs",
+              "DocumentMoniker": "C:\\Users\\joaov\\OneDrive\\Estudos\\Teste de C\u00F3digo\\Programas .net\\Conversor Monet\u00E1rio\\Conversor Monet\u00E1rio\\Conversor Monet\u00E1rio\\ConversorMonetario.cs",
+              "RelativeDocumentMoniker": "Conversor Monet\u00E1rio\\ConversorMonetario.cs",
+              "ToolTip": "C:\\Users\\joaov\\OneDrive\\Estudos\\Teste de C\u00F3digo\\Programas .net\\Conversor Monet\u00E1rio\\Conversor Monet\u00E1rio\\Conversor Monet\u00E1rio\\ConversorMonetario.cs",
+              "RelativeToolTip": "Conversor Monet\u00E1rio\\ConversorMonetario.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAtwKwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T04:07:12.927Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
